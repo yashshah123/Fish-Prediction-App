@@ -5,5 +5,5 @@ MarkupSafe==1.1.1
 flask_material==0.1.1
 sklearn==0.0
 joblib==0.17.0
-pandas==1.1.3
+pandas
 numpy==1.22.2
